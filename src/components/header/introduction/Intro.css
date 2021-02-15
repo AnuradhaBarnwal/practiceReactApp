@@ -1,0 +1,30 @@
+.intro {
+  height: 80vh;
+  width: 100%;
+  background-color: #dcebe6;
+  display: flex;
+  justify-content: center;
+}
+
+.photo {
+  margin-top: 80px;
+}
+
+.person {
+    height: 12em;
+    border-radius: 50%;
+    width: 13em;
+
+}
+
+.name{
+   margin-top: 2rem;
+   
+}
+
+.name h1{
+    font-size: 46px;
+}
+.name h3{
+    font-size: 26px;
+}
